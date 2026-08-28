@@ -1,1 +1,36 @@
-# Vani-3
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lists</title>
+</head>
+<body>
+
+    <h2>Ordered List</h2>
+
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ol>
+
+    <h2>Unordered List</h2>
+
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C++</li>
+    </ul>
+
+</body>
+</html>
+output:Ordered List
+
+1. HTML
+2. CSS
+3. JavaScript
+
+Unordered List
+
+• Python
+• Java
+• C++
